@@ -4,10 +4,10 @@ A d3 plugin to graph Chernoff faces.
 
 This project merely packages this d3 plugin separately for Bower.
 
-Author: Lars Kotthoff
-Original Home: https://github.com/d3/d3-plugins
-Complex Demo: http://www.larsko.org/v/hpi/
-Mailing List Thread: https://groups.google.com/forum/#!msg/d3-js/qiOZSnHouwM/R8xHvAix_ccJ
+* Author: Lars Kotthoff
+* Original Home: https://github.com/d3/d3-plugins
+* Complex Demo: http://www.larsko.org/v/hpi/
+* Mailing List Thread: https://groups.google.com/forum/#!msg/d3-js/qiOZSnHouwM/R8xHvAix_ccJ
 
 ## Usage
 
